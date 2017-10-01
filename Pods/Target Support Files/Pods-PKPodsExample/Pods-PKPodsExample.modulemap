@@ -1,0 +1,6 @@
+framework module Pods_PKPodsExample {
+  umbrella header "Pods-PKPodsExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

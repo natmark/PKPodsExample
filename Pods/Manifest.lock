@@ -1,0 +1,12 @@
+PODS:
+  - ProcessingKit (0.4.0)
+
+DEPENDENCIES:
+  - ProcessingKit (= 0.4.0)
+
+SPEC CHECKSUMS:
+  ProcessingKit: 171e906e205b24863e72972c99bd82538fa5f096
+
+PODFILE CHECKSUM: c06acb3b37cfdf509d6c8b0a9e66b141d881e864
+
+COCOAPODS: 1.3.1
